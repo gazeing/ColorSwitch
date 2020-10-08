@@ -32,4 +32,8 @@
         <item name="someCustomColor">@color/colorRedAxa</item>
     </style>
 
+
+    <style name="Body1" parent="TextAppearance.AppCompat.Body1">
+        <item name="android:textColor">?someCustomColor</item>
+    </style>
 </resources>
